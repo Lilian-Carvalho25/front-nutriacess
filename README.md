@@ -6,7 +6,7 @@
 <br/>
  
 <div align="center">
-   <h2>🍎 Quem somos</h2>
+   <h2> Quem somos 🍎</h2>
    
    <p>
       A NutriAcess é uma plataforma criada para democratizar o acesso a consultas nutricionais, com agilidade nos atendimentos, sem grandes filas de esperas       e com apenas um clique de distância. Com nossa plataforma conseguimos enfrentar os três impedimentos quando se busca uma nutrição saudável: o dinheiro,       a informação e o ambiente. Por meio dela, você encontra profissionais que se encaixe com seu perfil e objetivos.
@@ -39,7 +39,7 @@
  </ul>
 </div>
 
-## 🍎 Visite o site
+##  Visite o site 🍎
 
 Acesse o site da NutriAcess clicando [aqui](http://nutriacess.com.br/).
 
